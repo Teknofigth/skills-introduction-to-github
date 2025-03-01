@@ -7,11 +7,11 @@
   Add your open source license, GitHub uses MIT license.
 -->
 
-# Introduction to GitHub
+# saya disini sedabg bejalar
 
-_Get started using GitHub in less than an hour._
+_saya harap kalian bisa membatu saya untuk bisa lebih ngengenal dunia coding
 
-</header>
+-saya yakin kalian mau membantu saya
 
 <!--
   <<< Author notes: Step 1 >>>
